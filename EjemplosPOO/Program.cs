@@ -29,6 +29,9 @@ namespace EjemplosPOO
             obj.cambiaValorEuro(1.45);
 
             Console.WriteLine(obj.convierte(50));
+            Circulo circulo2= new Circulo();
+            circulo2.CalculoArea(6);
+
 
         }
     }
