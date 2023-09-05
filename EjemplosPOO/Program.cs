@@ -32,6 +32,8 @@ namespace EjemplosPOO
             Circulo circulo2= new Circulo();
             circulo2.CalculoArea(6);
 
+            Circulo circulo3 = new Circulo();
+            circulo3.CalculoArea(10);
 
         }
     }
